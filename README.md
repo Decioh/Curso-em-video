@@ -1,0 +1,2 @@
+# projetosCEM
+ Exercícios em Python
